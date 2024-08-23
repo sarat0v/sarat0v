@@ -31,8 +31,7 @@ me.say_hi()
 ### 👨‍💻 Programming languages
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=white)
-![](https://custom-icon-badges.herokuapp.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white)
+
 
 ![](https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
